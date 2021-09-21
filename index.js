@@ -10,3 +10,5 @@ Object.defineProperty(module.exports, 'decode', {
   enumerable: false,
   value: require('./decode'),
 });
+
+console.log('test');
